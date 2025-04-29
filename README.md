@@ -112,7 +112,8 @@ void led_blink()
 
 ## Output screen shots of proteus  :
 
-![434932151-d5013d6c-a4a7-4309-9d5f-ab46cf5cb1a0](https://github.com/user-attachments/assets/2b6ceba6-2e74-4d45-a354-11254dd7d665)
+
+![435381235-41dfdb02-66fe-4569-bd75-f43e6e1b20da](https://github.com/user-attachments/assets/df7cc477-9636-4601-87a1-3f51c17776f8)
 
 
 
@@ -120,7 +121,8 @@ void led_blink()
 
 
  
-![image](https://github.com/user-attachments/assets/c21615b9-d18d-4160-82ad-312b3b9515b4)
+![435381305-8cf12e2b-c835-4879-8f83-1618c4702f01](https://github.com/user-attachments/assets/690890b6-4590-4b77-bd98-b883a85c4f09)
+
  
  
  
